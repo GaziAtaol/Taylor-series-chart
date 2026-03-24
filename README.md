@@ -1,7 +1,7 @@
 # Taylor Series · sin(x) Visualizer
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-GPL--v3-blue?logo=gnu)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-blueviolet?logo=matplotlib)
@@ -147,4 +147,8 @@ Error = 3.33e-16
 
 ## License
 
-MIT — free to use, modify, and distribute.
+This project is licensed under the **GNU General Public License v3.0**.
+
+You are free to use, study, modify, and distribute this software under the terms of the GPL v3. Any derivative work must also be distributed under the same license.
+
+See the [LICENSE](LICENSE) file for the full license text, or visit [gnu.org/licenses/gpl-3.0](https://www.gnu.org/licenses/gpl-3.0.html).
